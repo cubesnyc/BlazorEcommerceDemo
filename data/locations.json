@@ -1,0 +1,8 @@
+[
+	{ "name": "New York", "location_id": 0 },
+	{ "name": "Atlanta", "location_id": 1 },
+	{ "name": "Chicago", "location_id": 2 },
+	{ "name": "Los Angeles", "location_id": 3 },
+	{ "name": "Seattle", "location_id": 4 },
+	{ "name": "Houston", "location_id": 5 }
+]

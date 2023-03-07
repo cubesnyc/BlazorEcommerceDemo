@@ -1,0 +1,202 @@
+[
+	{
+		"practice_id": 1,
+		"name": "Administrative"
+	},
+	{
+		"practice_id": 5,
+		"name": "Appellate Practice"
+	},
+	{
+		"practice_id": 4,
+		"name": "Antitrust"
+	},
+	{
+		"practice_id": 3,
+		"name": "Advertising"
+	},
+	{
+		"practice_id": 2,
+		"name": "Admirality"
+	},
+	{
+		"practice_id": 6,
+		"name": "Arbitration"
+	},
+	{
+		"practice_id": 7,
+		"name": "Art Law"
+	},
+	{
+		"practice_id": 8,
+		"name": "Aviation"
+	},
+	{
+		"practice_id": 9,
+		"name": "Banking"
+	},
+	{
+		"practice_id": 10,
+		"name": "Bankruptcy"
+	},
+	{
+		"practice_id": 11,
+		"name": "Capital Markets"
+	},
+	{
+		"practice_id": 12,
+		"name": "Civil Litigation"
+	},
+	{
+		"practice_id": 13,
+		"name": "Civil Rights"
+	},
+	{
+		"practice_id": 14,
+		"name": "Constitutional Law"
+	},
+	{
+		"practice_id": 15,
+		"name": "Construction"
+	},
+	{
+		"practice_id": 16,
+		"name": "Compliance"
+	},
+	{
+		"practice_id": 17,
+		"name": "Commercial Litigation"
+	},
+	{
+		"practice_id": 18,
+		"name": "Copyright"
+	},
+	{
+		"practice_id": 19,
+		"name": "Corporate"
+	},
+	{
+		"practice_id": 20,
+		"name": "Employment"
+	},
+	{
+		"practice_id": 21,
+		"name": "Employee Benefits – ERISA"
+	},
+	{
+		"practice_id": 22,
+		"name": "Energy"
+	},
+	{
+		"practice_id": 23,
+		"name": "Entertainment Law"
+	},
+	{
+		"practice_id": 24,
+		"name": "Environmental"
+	},
+	{
+		"practice_id": 25,
+		"name": "Family"
+	},
+	{
+		"practice_id": 26,
+		"name": "Finance"
+	},
+	{
+		"practice_id": 27,
+		"name": "Financial Services"
+	},
+	{
+		"practice_id": 28,
+		"name": "Food and Drug"
+	},
+	{
+		"practice_id": 29,
+		"name": "Healthcare"
+	},
+	{
+		"practice_id": 30,
+		"name": "Hedgefund"
+	},
+	{
+		"practice_id": 31,
+		"name": "Insurance"
+	},
+	{
+		"practice_id": 32,
+		"name": "Intellectual Property"
+	},
+	{
+		"practice_id": 34,
+		"name": "International Arbitration"
+	},
+	{
+		"practice_id": 35,
+		"name": "Labor - Employment"
+	},
+	{
+		"practice_id": 36,
+		"name": "Litigation"
+	},
+	{
+		"practice_id": 37,
+		"name": "Marketing"
+	},
+	{
+		"practice_id": 38,
+		"name": "Mergers and Acquisitions"
+	},
+	{
+		"practice_id": 39,
+		"name": "Patent"
+	},
+	{
+		"practice_id": 40,
+		"name": "Plaintiffs Litigation"
+	},
+	{
+		"practice_id": 41,
+		"name": "Private Equity"
+	},
+	{
+		"practice_id": 42,
+		"name": "Real Estate"
+	},
+	{
+		"practice_id": 43,
+		"name": "Securities"
+	},
+	{
+		"practice_id": 44,
+		"name": "Tax"
+	},
+	{
+		"practice_id": 45,
+		"name": "Trademark"
+	},
+	{
+		"practice_id": 46,
+		"name": "Transactional"
+	},
+	{
+		"practice_id": 47,
+		"name": "Trusts and Estates"
+	},
+	{
+		"practice_id": 48,
+		"name": "Venture Capital"
+	},
+	{
+		"practice_id": 49,
+		"name": "Wills"
+	},
+	{
+		"practice_id": 50,
+		"name": "White Collar Crime"
+	},
+	{
+		"practice_id": 51,
+		"name": "Workers Compensation"
+	}
+]
